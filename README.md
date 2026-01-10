@@ -98,7 +98,7 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridwanoorrahmanrafi&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -122,9 +122,9 @@
 ## 🏆 GitHub Metrics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=22D3EE&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=22D3EE" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=flat-square&color=22D3EE" />
+  <img src="https://komarev.com/ghpvc/?username=ridwanoorrahmanrafi&color=22D3EE&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/ridwanoorrahmanrafi?style=flat-square&color=22D3EE" />
+  <img src="https://img.shields.io/github/stars/ridwanoorrahmanrafi?style=flat-square&color=22D3EE" />
 </p>
 
 ---
