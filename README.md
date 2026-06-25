@@ -91,7 +91,7 @@
 
 ## 📁 Academic & Personal Projects
 
-### 🔹 Social-Good Support System (FYDP)
+### 🔹 Social-Good Support System 
 - Platform for **homeless, roadside children, elderly & disabled people**
 - Job proposals with **fraud & safety verification**
 - Focus on **data security & ethical design**
