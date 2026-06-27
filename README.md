@@ -1,145 +1,172 @@
-<!-- ================= PROFILE HEADER ================= -->
-<div align="center">
+# 👋 Hi, I'm Ridwanoor Rahman Rafi
 
-  <!-- Profile Image (Avatar Placeholder) -->
-  <div style="position: relative; width: 160px; height: 160px; margin: 0 auto 20px;">
-    <div style="
-      width: 160px;
-      height: 160px;
-      background: linear-gradient(45deg, #22D3EE, #3B82F6, #8B5CF6);
-      border-radius: 50%;
-      padding: 4px;
-    ">
-    </div>
-    <div style="
-      position: absolute;
-      bottom: 10px;
-      right: 10px;
-      width: 16px;
-      height: 16px;
-      background-color: #10B981;
-      border-radius: 50%;
-      border: 3px solid white;
-    "></div>
-  </div>
-
-  <!-- Name -->
-  <h1 style="
-    font-size: 2.6rem;
-    background: linear-gradient(90deg, #22D3EE, #3B82F6, #8B5CF6);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin-bottom: 10px;
-  ">
-    👋 Ridwanoor Rahman Rafi
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
-  </h1>
-
-  <!-- Typing Animation -->
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+%7C+Web+%7C+System+Design;Final+Year+Project+Researcher" />
-  </p>
-
-  <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Open%20to%20Internships-22D3EE?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Software%20Developer-3B82F6?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/FYDP%20Research-8B5CF6?style=for-the-badge" />
-  </p>
-
-  <!-- FOLLOW / FRIEND BUTTON -->
-  <p>
-    <a href="https://github.com/ridwanoorrahmanrafi?tab=followers">
-      <img src="https://img.shields.io/badge/⭐%20Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 🎓 **BSc in Computer Science & Engineering**
-- 💻 **Software Engineering student**
-- 🧠 Interested in **AI-based systems & real-world problem solving**
-- 🛠️ Experience with **academic projects & system design**
-- 🚀 Focused on **scalable, secure & meaningful software**
-- 📘 Currently working on **Final Year Design Project (FYDP)**
-- 📬 **Email:** YOUR_EMAIL_HERE
-
----
-
-## 💼 Tech Stack
-
-### 🌐 Programming & Web
+```{=html}
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css&theme=dark" />
+```
+`<img src="assets/profile.png" width="180" style="border-radius:50%;" alt="Ridwanoor Rahman Rafi"/>`{=html}
+```{=html}
 </p>
-
-### ⚙️ Frameworks & Databases
+```
+```{=html}
+<h3 align="center">
+```
+Software Engineer \| Full-Stack Web Developer \| AI & Accessibility
+Researcher
+```{=html}
+</h3>
+```
+```{=html}
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql&theme=dark" />
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Software+Engineer;Full-Stack+Web+Developer;AI+%26+Accessibility+Researcher;Computer+Vision+%7C+IoT+Developer;Problem+Solver+%7C+Tech+Enthusiast"/>`{=html}
+```{=html}
 </p>
-
-### 🛠️ Tools
+```
+```{=html}
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+```
+`<a href="https://github.com/ridwanoorrahmanrafi">`{=html}`<img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/ridwanoor-rahman-rafi">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://www.facebook.com/share/1EByt7qUaS/?mibextid=wwXIfr">`{=html}`<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 📁 Academic & Personal Projects
+# 🚀 About Me
 
-### 🔹 Social-Good Support System 
-- Platform for **homeless, roadside children, elderly & disabled people**
-- Job proposals with **fraud & safety verification**
-- Focus on **data security & ethical design**
+I am an undergraduate **Computer Science & Engineering (CSE)** student
+passionate about software development, Artificial Intelligence,
+accessibility technologies, embedded systems, and full-stack web
+development.
 
-### 🔹 Disaster Prediction System
-- Flood & cyclone prediction using **data-driven models**
-- Early warning & community impact focus
+I enjoy transforming innovative ideas into practical software and
+hardware solutions that solve real-world problems. My work spans
+AI-assisted systems, research projects, IoT, Human--Computer
+Interaction, Computer Vision, and modern web applications.
 
----
+Alongside my technical background, I am an effective communicator with
+strong teamwork, presentation, analytical thinking, and problem-solving
+skills. I enjoy collaborating on meaningful projects and continuously
+learning new technologies.
 
-## 📈 GitHub Activity
+## 💻 Tech Stack
 
+### Programming Languages
+
+C • C++ • Java • Python • JavaScript • PHP • HTML5 • CSS3 • SQL (MySQL)
+
+```{=html}
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridwanoorrahmanrafi&theme=react-dark&hide_border=true" />
+```
+`<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,html,css,mysql,git,github,vscode&theme=dark"/>`{=html}
+```{=html}
 </p>
+```
+## 🛠 Areas of Interest
 
----
+-   Software Engineering
+-   Full-Stack Web Development
+-   Artificial Intelligence
+-   Computer Vision
+-   Image Processing
+-   Human--Computer Interaction
+-   Accessibility Technologies
+-   IoT & Embedded Systems
+-   Software Architecture
+-   System Design
 
-## 🤝 Connect With Me
+# 🚀 Featured Projects
 
+## 🎨 Dynamic Visual Accessibility Layer (DVAL)
+
+Research-based accessibility system that creates personalized visual
+profiles for users with Color Vision Deficiency (CVD) using adaptive
+color mapping and image enhancement.
+
+## 🚑 EAIRCS
+
+Emergency AI Rescue & Intelligent Response Communication System
+featuring AI route planning, volunteer coordination, emergency
+communication and mesh networking.
+
+## 🚤 Automated Flood Assistant Boat
+
+Hardware-software integrated autonomous rescue boat for flood
+emergencies using embedded systems and intelligent navigation.
+
+## 🏗 Construction Management System
+
+Full-stack web application built with HTML, CSS, JavaScript, PHP and
+MySQL for project management, budgeting and employee tracking.
+
+## ♻ Sustainable Smart Dustbin
+
+IoT-based smart waste management solution with automated monitoring and
+intelligent waste collection.
+
+# 🌍 Languages
+
+-   Bengali (Native)
+-   English (Professional Working Proficiency)
+
+# 🌟 Core Strengths
+
+-   Software Development
+-   Full-Stack Web Development
+-   Research & Innovation
+-   Problem Solving
+-   Effective Communication
+-   Team Collaboration
+-   Technical Presentation
+-   Analytical Thinking
+-   Continuous Learning
+
+# 📊 GitHub Statistics
+
+```{=html}
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ridwanoorrahmanrafi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=ridwanoorrahmanrafi&show_icons=true&theme=tokyonight"/>`{=html}
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanoorrahmanrafi&theme=tokyonight"/>`{=html}
+```{=html}
 </p>
-
----
-
-## 🏆 GitHub Metrics
-
+```
+```{=html}
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ridwanoorrahmanrafi&color=22D3EE&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/ridwanoorrahmanrafi?style=flat-square&color=22D3EE" />
-  <img src="https://img.shields.io/github/stars/ridwanoorrahmanrafi?style=flat-square&color=22D3EE" />
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=ridwanoorrahmanrafi&theme=react-dark&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
----
-
-<div align="center">
-  <i>"Build software that solves real problems."</i>
-</div>
-
+```
+```{=html}
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=ridwanoorrahmanrafi&theme=algolia&no-frame=true"/>`{=html}
+```{=html}
 </p>
+```
+# 📫 Connect With Me
+
+-   GitHub: https://github.com/ridwanoorrahmanrafi
+-   LinkedIn: https://www.linkedin.com/in/ridwanoor-rahman-rafi
+-   Facebook: https://www.facebook.com/share/1EByt7qUaS/?mibextid=wwXIfr
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+`<i>`{=html}"Building intelligent, accessible, and impactful software
+that solves real-world problems."`</i>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:8B5CF6&height=120&section=footer"/>`{=html}
+```{=html}
+</p>
+```
