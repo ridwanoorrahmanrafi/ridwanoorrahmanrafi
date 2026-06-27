@@ -164,7 +164,7 @@
 
 <img src="https://img.shields.io/github/followers/ridwanoorrahmanrafi?style=flat-square&color=22D3EE"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ridwanoorrahmanrafi&theme=algolia&no-frame=true&margin-w=10"/>
+
 
 </p>
 
