@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<!-- Profile Image -->
-<img src="assets/profile.png" width="170" alt="Ridwanoor Rahman Rafi"/>
+
 
 # 👋 Hi, I'm Ridwanoor Rahman Rafi
 
